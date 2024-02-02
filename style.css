@@ -36,9 +36,9 @@
         padding: 5px;
 
     }
-.navigation li:active
+.navigation li
     {
-        background-color: white;color: rgb(146, 72, 72);width:fit-content;
+        width:fit-content;
     }
     .bar1,.bar2,.bar3
     {
