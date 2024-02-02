@@ -36,6 +36,10 @@
         padding: 5px;
 
     }
+.navigation li a:active
+    {
+        background-color: white;color: rgb(146, 72, 72);
+    }
     .bar1,.bar2,.bar3
     {
         height: 5px;
